@@ -1,0 +1,14 @@
+# > Google Translate
+DOMAIN-SUFFIX,geller-pa.googleapis.com
+DOMAIN-SUFFIX,notifications-pa.googleapis.com
+DOMAIN,translate-pa.googleapis.com
+DOMAIN,oauthaccountmanager.googleapis.com
+DOMAIN,oauth2.googleapis.com
+DOMAIN,dl.google.com
+DOMAIN,inputtools.google.com
+
+# > Google Translate TTS (语音朗读)
+DOMAIN,speechs3proto2-pa.googleapis.com
+
+# > Google Translate 相机识别
+DOMAIN,lens-pa.googleapis.com
